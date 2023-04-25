@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.RadioGroup;
-
+//Adding user
 public class AddUserActivity extends AppCompatActivity {
     private EditText textInput;
     @Override
